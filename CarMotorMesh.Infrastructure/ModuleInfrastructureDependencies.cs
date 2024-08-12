@@ -10,6 +10,3 @@ namespace CarMotorMesh.Infrastructure
 		}
 	}
 }
-/*
- .Net Web Api Project for Vehicles Data/Informations, Using 3-Tier Architecture.
- */
