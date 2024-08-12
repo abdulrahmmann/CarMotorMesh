@@ -14,4 +14,9 @@
     <ProjectReference Include="..\CarMotorMesh.Infrastructure\CarMotorMesh.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Services\Abstracts\" />
+    <Folder Include="Services\Implementation\" />
+  </ItemGroup>
+
 </Project>
