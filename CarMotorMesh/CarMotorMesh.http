@@ -1,0 +1,6 @@
+@CarMotorMesh_HostAddress = http://localhost:5279
+
+GET {{CarMotorMesh_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
