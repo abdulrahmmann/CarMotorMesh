@@ -4,13 +4,13 @@ using DriveType = CarMotorMesh.Infrastructure.Entities.DriveType;
 
 namespace CarMotorMesh.Infrastructure.Data;
 
-public partial class VehicleMakesDbTrainingContext : DbContext
+public partial class VehicleContext : DbContext
 {
-	public VehicleMakesDbTrainingContext()
+	public VehicleContext()
 	{
 	}
 
-	public VehicleMakesDbTrainingContext(DbContextOptions<VehicleMakesDbTrainingContext> options)
+	public VehicleContext(DbContextOptions<VehicleContext> options)
 		: base(options)
 	{
 	}

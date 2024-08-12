@@ -21,7 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Contacts\" />
     <Folder Include="Repository\Abstracts\" />
     <Folder Include="Repository\Implementation\" />
   </ItemGroup>
